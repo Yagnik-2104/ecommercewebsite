@@ -1,0 +1,4 @@
+.col-md-4.col-sm-6.col-xs-8.col-12.mb-4:hover {
+    transform: translate(0px, -10px);
+    transition: 0.5s;
+}
